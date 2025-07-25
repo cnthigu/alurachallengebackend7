@@ -1,0 +1,54 @@
+﻿# Build resultados
+bin/
+obj/
+
+# Diretórios gerados pelo Visual Studio
+.vs/
+
+# Arquivos do usuário do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Pacotes NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Diretórios de publicação
+publish/
+
+# Configurações locais
+appsettings.Development.json
+appsettings.Local.json
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.cache
+
+# Respostas do Azure Functions
+azurefunctions/
+
+# Rider IDE
+.idea/
+
+# Arquivos gerados por testes
+TestResults/
+
+# Configurações do Docker
+docker-compose.override.yml
+
+# Configuração de histórico do dotnet ef migrations
+Migrations/
+
+# Arquivos do IIS Express
+*.vspscc
+.vscode/
+
+# User secrets (segredos locais)
+secrets.json
