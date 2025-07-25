@@ -113,7 +113,7 @@ Abra o navegador e acesse: `https://localhost:7001/swagger`
 - `PUT /depoimentos/{id}` - Atualiza um depoimento existente
 - `DELETE /depoimentos/{id}` - Remove um depoimento
 
-![Imagem](images/depoimentos.jpg)
+![Imagem](imagens/depoimentos.jpg)
 
 ## Arquitetura do Projeto
 
